@@ -1,2 +1,2 @@
 My first readme
-Updaing this file
+Updating this file
